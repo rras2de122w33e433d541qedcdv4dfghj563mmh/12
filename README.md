@@ -1,4 +1,4 @@
-# - DontEdit-Saz
+# - Ddit-Saz
 
 > Training runs on free hosting [openshift](https://openshift.com)
 
@@ -19,8 +19,8 @@ https://api.telegram.org/bot<token>/setwebhook?url=https://name-name.rhcloud.com
 Example: https://api.telegram.org/bot272831745:AAHqs25sFXDj2Gan-gjH9KdDoOkHcl8JyTo/setwebhook?url=https://Dontedit-saz-mutepuker.rhcloud.com/Luncher.php
 ```
 
-<b>Developer</b> > [@MutePuker](https://telegram.me/MutePuker)
+<b>Developer</b> > [](https://telegram.me/)
 
-<b>Channel</b> > [@MuteTeam](https://telegram.me/MuteTeam)
+<b>Channel</b> > [](https://telegram.me/)
 
-<b>Reports</b> > [@MutePukerBot](https://telegram.me/MutePukerBot)
+<b>Reports</b> > [](https://telegram.me/)
